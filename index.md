@@ -5,5 +5,6 @@
 layout: home
 title: Home
 permalink: /
+order: 1
 ---
 Welcome to the INSPIRATION homepage.
