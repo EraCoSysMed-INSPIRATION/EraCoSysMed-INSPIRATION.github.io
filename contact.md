@@ -5,4 +5,4 @@ permalink: /contact/
 order: 3
 ---
 
-You can contact us here:
+You can contact us at: thorsten.lehr@uni-saarland.de
