@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 order: 2
 ---
-# \- A new level of qualified Drug-Drug-Gene-Interaction (DDGI) network models -  
+### \- A new level of qualified Drug-Drug-Gene-Interaction (DDGI) network models -  
 
 The aim of INSPIRATION is to establish clinically applicable DDGI models that can be used by physicians to guide drug treatment in the case of DDGI. 
 
