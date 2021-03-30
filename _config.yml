@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: INSPIRATION
-email: your-email@example.com
+# title: INSPIRATION
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This project is part of ERACoSysMed and has received funding from the European Union's Horizon 2020 research and innovation programme under Grant Agreement No 643271. 
 baseurl: "" # the subpath of your site, e.g. Write an/blog
