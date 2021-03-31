@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-# title: Home
+title: Home
 permalink: /
 order: 1
 ---
@@ -13,9 +13,9 @@ order: 1
 
 The aim of INSPIRATION is to improve the outcomes of drug therapy by establishing clinically applicable DDGI models that can be used to guide drug treatment. 
 
->- Unique 
->- Publicly available 
->- Benefits for patients, clinicians, and the pharmaceutical industry 
->- Reducing costs of health-care system 
+- Unique 
+- Publicly available 
+- Benefits for patients, clinicians, and the pharmaceutical industry 
+- Reducing costs of health-care system 
 
 INSPIRATION is conducted by highly experienced partners from clinics, academia, and pharmaceutical industry. 

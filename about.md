@@ -8,7 +8,7 @@ order: 2
 
 The aim of INSPIRATION is to establish clinically applicable DDGI models that can be used by physicians to guide drug treatment in the case of DDGI. 
 
-The qualified models will be made publicly available on the GitHub website of the Open Systems Pharmacology (OSP) community [http://www.open-systems-pharmacology.org/](http://www.open-systems-pharmacology.org/), together with a newly established DDGI database to provide the clinical data used for model development. 
+The qualified models will be made publicly available on the GitHub website of the Open Systems Pharmacology (OSP) community [(http://www.open-systems-pharmacology.org/)](http://www.open-systems-pharmacology.org/), together with a newly established DDGI database to provide the clinical data used for model development. 
 
 The specific scientific and technological objectives of INSPIRATION are: 
 
@@ -28,7 +28,6 @@ Fig. 1: Outline of concept, work packages and interactions between project partn
 The INSPIRATION consortium is composed of the following persons: 
 
 - Prof. Thorsten Lehr, Saarland University, Department of Clinical Pharmacy 
-
 - Dr. Sebastian Frechen, Bayer AG, Systems Pharmacology & Medicine 
 - Dr. Donato Teutonico, Sanofi, Translational Medicine & Early Development 
 - Prof. Jesse Swen, Leiden University Medical Center, Department of Clinical Pharmacy and Toxicology 
