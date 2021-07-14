@@ -22,7 +22,7 @@ The specific scientific and technological objectives of INSPIRATION are:
 
 5. to develop a clinical decision support system for physicians and patients to assess DDGI and to provide individual dosing recommendations 
 
-![INSPIRATION schmea](/images/schema_inspiration.svg)
+![INSPIRATION schmea](/images/schema_inspiration.png)
 \
 Fig. 1: Outline of concept, work packages and interactions between project partners in INSPIRATION 
 
@@ -31,4 +31,4 @@ The INSPIRATION consortium is composed of the following persons:
 - Prof. Thorsten Lehr, Saarland University, Department of Clinical Pharmacy 
 - Dr. Sebastian Frechen, Bayer AG, Systems Pharmacology & Medicine 
 - Dr. Donato Teutonico, Sanofi, Translational Medicine & Early Development 
-- Prof. Jesse Swen, Leiden University Medical Center, Department of Clinical Pharmacy and Toxicology 
+- Associate Prof. Jesse Swen, Leiden University Medical Center, Department of Clinical Pharmacy and Toxicology 
