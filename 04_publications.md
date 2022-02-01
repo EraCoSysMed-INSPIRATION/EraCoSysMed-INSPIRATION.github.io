@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-order: 3
+order: 4
 ---
 
 Rüdesheim S, Wojtyniak JG, Selzer D, Hanke N, Mahfoud F, Schwab M, Lehr T. Physiologically based pharmacokinetic modeling of metoprolol enantiomers and α-hydroxymetoprolol to describe CYP2D6 drug-gene interactions. *Pharmaceutics*. **2020**; 12(12):1200. doi: 10.3390/pharmaceutics12121200. 
