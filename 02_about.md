@@ -8,7 +8,7 @@ order: 2
 
 The aim of INSPIRATION is to establish clinically applicable DDGI models that can be used by physicians to guide drug treatment in the case of DDGI. 
 
-The qualified models will be made publicly available on the GitHub website of the Open Systems Pharmacology (OSP) community [(http://www.open-systems-pharmacology.org/)](http://www.open-systems-pharmacology.org/), together with a newly established DDGI database to provide the clinical data used for model development. 
+The qualified models will be made publicly available on the GitHub website of the [Open Systems Pharmacology (OSP) community](http://www.open-systems-pharmacology.org/), together with a newly established DDGI database to provide the clinical data used for model development. 
 
 The specific scientific and technological objectives of INSPIRATION are: 
 
