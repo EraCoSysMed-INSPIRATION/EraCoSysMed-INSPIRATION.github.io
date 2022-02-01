@@ -22,4 +22,4 @@ The aim of INSPIRATION is to improve the outcomes of drug therapy by establishin
 
 INSPIRATION is conducted by highly experienced [partners from clinics, academia, and pharmaceutical industry](https://eracosysmed-inspiration.github.io/partners/). 
 
-[Learn more](https://eracosysmed-inspiration.github.io/about/)
+[Read more](https://eracosysmed-inspiration.github.io/about/)
