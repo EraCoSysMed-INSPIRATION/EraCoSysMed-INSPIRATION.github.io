@@ -7,9 +7,12 @@ title: Home
 permalink: /
 order: 1
 ---
+
 # Welcome to the INSPIRATION Project!
 
 ## Qualified Open Systems Pharmacology Modeling Network of Drug-Drug-Gene-Interactions 
+
+![INSPIRATION schema](/images/Logo_ERACoSysMed.jpg)
 
 This project is part of ERACoSysMed and has received funding from the European Union's Horizon 2020 research and innovation programme under Grant Agreement No 643271. It is one project of the [ERACoSysMed 3rd Joint Transnational Call for European Research Projects on Systems Medicine 2019](https://www.eracosysmed.eu/calls/jtc-3-2019), focusing on research that utilizes computational models to improve knowledge about diseases and adequate treatment.
 
