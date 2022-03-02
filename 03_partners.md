@@ -11,3 +11,5 @@ The INSPIRATION consortium is composed of the following persons:
 - Dr. Sebastian Frechen, Bayer AG, Systems Pharmacology & Medicine 
 - Dr. Donato Teutonico, Sanofi, Translational Medicine & Early Development 
 - Associate Prof. Jesse Swen, Leiden University Medical Center, Department of Clinical Pharmacy and Toxicology 
+
+You can contact us at: [thorsten.lehr@mx.uni-saarland.de](mailto:thorsten.lehr@mx.uni-saarland.de)
