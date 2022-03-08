@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Impressum
-permalink: /impressum/
-order: 6
+title: Datenschutz
+permalink: /datenschutz/
+order: 7
 ---
 
 Wir haben diese Datenschutzerklärung (Fassung 03.03.2022-311956974) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen Daten (kurz Daten) wir als Verantwortliche – und die von uns beauftragten Auftragsverarbeiter (z. B. Provider) – verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.
