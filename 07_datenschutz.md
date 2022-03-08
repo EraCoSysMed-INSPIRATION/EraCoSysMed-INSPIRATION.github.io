@@ -26,23 +26,23 @@ Wir verwenden HTTPS (das Hypertext Transfer Protocol Secure steht für „sicher
 
 ## Cookies
 
-### Was sind Cookies?
+# Was sind Cookies?
 
 Ein Cookie besteht aus einem Namen und einem Wert. Bei der Definition eines Cookies müssen zusätzlich ein oder mehrere Attribute angegeben werden. Cookies speichern gewisse Nutzerdaten von Ihnen, wie beispielsweise Sprache oder persönliche Seiteneinstellungen. Wenn Sie unsere Seite wieder aufrufen, übermittelt Ihr Browser die „userbezogenen“ Informationen an unsere Seite zurück. Dank der Cookies weiß unsere Website, wer Sie sind und bietet Ihnen die Einstellung, die Sie gewohnt sind. In einigen Browsern hat jedes Cookie eine eigene Datei, in anderen wie beispielsweise Firefox sind alle Cookies in einer einzigen Datei gespeichert.
 
 Es gibt sowohl Erstanbieter Cookies als auch Drittanbieter-Cookies. Erstanbieter-Cookies werden direkt von unserer Seite erstellt, Drittanbieter-Cookies werden von Partner-Websites erstellt. Jedes Cookie ist individuell zu bewerten, da jedes Cookie andere Daten speichert. Auch die Ablaufzeit eines Cookies variiert von ein paar Minuten bis hin zu ein paar Jahren. Cookies sind keine Software-Programme und enthalten keine Viren, Trojaner oder andere „Schädlinge“. Cookies können auch nicht auf Informationen Ihres PCs zugreifen.
 
-### Speicherdauer von Cookies
+# Speicherdauer von Cookies
 
 Die Speicherdauer hängt vom jeweiligen Cookie ab und wird weiter unter präzisiert. Manche Cookies werden nach weniger als einer Stunde gelöscht, andere können mehrere Jahre auf einem Computer gespeichert bleiben. Sie haben außerdem selbst Einfluss auf die Speicherdauer. Sie können über ihren Browser sämtliche Cookies jederzeit manuell löschen (siehe auch unten “Widerspruchsrecht”). Ferner werden Cookies, die auf einer Einwilligung beruhen, spätestens nach Widerruf Ihrer Einwilligung gelöscht, wobei die Rechtmäßigkeit der Speicherung bis dahin unberührt bleibt.
 
-### Widerspruchsrecht – wie kann ich Cookies löschen?
+# Widerspruchsrecht – wie kann ich Cookies löschen?
 Wie und ob Sie Cookies verwenden wollen, entscheiden Sie selbst. Unabhängig von welchem Service oder welcher Website die Cookies stammen, haben Sie immer die Möglichkeit Cookies zu löschen, zu deaktivieren oder nur teilweise zuzulassen. Zum Beispiel können Sie Cookies von Drittanbietern blockieren, aber alle anderen Cookies zulassen.
 Wenn Sie feststellen möchten, welche Cookies in Ihrem Browser gespeichert wurden, wenn Sie Cookie-Einstellungen ändern oder löschen wollen, können Sie dies in Ihren Browser-Einstellungen finden.
 
 Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Die Vorgangsweise ist je nach Browser verschieden. 
 
-### Rechtsgrundlage
+# Rechtsgrundlage
 
 Seit 2009 gibt es die sogenannten „Cookie-Richtlinien“. Darin ist festgehalten, dass das Speichern von Cookies eine Einwilligung (Artikel 6 Abs. 1 lit. a DSGVO) von Ihnen verlangt. Innerhalb der EU-Länder gibt es allerdings noch sehr unterschiedliche Reaktionen auf diese Richtlinien. In Österreich erfolgte aber die Umsetzung dieser Richtlinie in § 96 Abs. 3 des Telekommunikationsgesetzes (TKG). In Deutschland wurden die Cookie-Richtlinien nicht als nationales Recht umgesetzt. Stattdessen erfolgte die Umsetzung dieser Richtlinie weitgehend in § 15 Abs.3 des Telemediengesetzes (TMG).
 
@@ -52,11 +52,11 @@ In den folgenden Abschnitten werden Sie genauer über den Einsatz von Cookies in
 
 ## Webhosting
 
-### Was ist Webhosting?
+# Was ist Webhosting?
 Wenn Sie heutzutage Websites besuchen, werden gewisse Informationen – auch personenbezogene Daten – automatisch erstellt und gespeichert, so auch auf dieser Website. Diese Daten sollten möglichst sparsam und nur mit Begründung verarbeitet werden. Mit Website meinen wir übrigens die Gesamtheit aller Webseiten auf einer Domain, d.h. alles von der Startseite (Homepage) bis hin zur aller letzten Unterseite (wie dieser hier). Mit Domain meinen wir zum Beispiel beispiel.de oder musterbeispiel.com. Wenn Sie eine Website auf einem Bildschirm ansehen möchten, verwenden Sie dafür ein Programm, das sich Webbrowser nennt. Dieser Webbrowser muss sich zu einem anderen Computer verbinden, wo der Code der Website gespeichert ist: dem Webserver. Der Betrieb eines Webservers ist eine komplizierte und aufwendige Aufgabe, weswegen dies in der Regel von professionellen Anbietern, den Providern, übernommen wird. Diese bieten Webhosting an und sorgen damit für eine verlässliche und fehlerfreie Speicherung der Daten von Websites.
 Bei der Verbindungsaufnahme des Browsers auf Ihrem Computer (Desktop, Laptop, Smartphone) und während der Datenübertragung zu und vom Webserver kann es zu einer Verarbeitung personenbezogener Daten kommen. Einerseits speichert Ihr Computer Daten, andererseits muss auch der Webserver Daten eine Zeit lang speichern, um einen ordentlichen Betrieb zu gewährleisten.
 
-### Warum verarbeiten wir personenbezogene Daten?
+# Warum verarbeiten wir personenbezogene Daten?
 Die Zwecke der Datenverarbeitung sind:
 1.	Professionelles Hosting der Website und Absicherung des Betriebs
 2.	zur Aufrechterhaltung der Betriebs- und IT-Sicherheit
@@ -71,10 +71,10 @@ Auch während Sie unsere Website jetzt gerade besuchen, speichert unser Webserve
 •	Datum und Uhrzeit
 •	in Dateien, den sogenannten Webserver-Logfiles
 
-### Wie lange werden Daten gespeichert?
+# Wie lange werden Daten gespeichert?
 In der Regel werden die oben genannten Daten zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten von Behörden eingesehen werden.
 
-### GitHub Pages
+# GitHub Pages
 Diese Website wird veröffentlicht mit [Github Pages](https://pages.github.com/), Server der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. Aufzeichnen technischer Informationen inklusive ihrer IP Adresse sind beim Aufruf dieser Webseiten möglich [https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages). Weitere Informationen zum Umgang mit Nutzerdaten und zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie in der [Datenschutzerklärung von GitHub](https://help.github.com/articles/github-privacy-policy).
 
 

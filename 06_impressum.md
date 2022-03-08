@@ -9,7 +9,7 @@ Anbieter dieses Internetangebots ist die Universität des Saarlandes, eine Körp
 
 Aufsichtsbehörde: Staatskanzlei des Saarlandes
 
-## Anschrift
+# Anschrift
 
 Universität des Saarlandes
 Campus
@@ -19,7 +19,7 @@ Telefon: +49 681 302-0
 Telefax: +49 681 302-2500
 E-Mail: [info(at)uni-saarland.de](mailto:info(at)uni-saarland.de)
 
-## Haftungsausschluss
+# Haftungsausschluss
 
 Umsatzsteueridentifikationsnummer: DE138117521
 
@@ -31,13 +31,13 @@ Die Übersetzungen der Webseiten sind ein Serviceangebot und dienen dem besseren
 
 
 
-# Legal notice
+## Legal notice
 
 The provider of this website is Saarland University, a public corporation, represented by the president of Saarland University Prof. Dr. Manfred Schmitt.
 
 Supervisory authority: Staatskanzlei des Saarlandes
 
-## Adress
+# Adress
 
 Saarland University
 Campus
@@ -48,7 +48,7 @@ Telefon: +49 681 302-0
 Telefax: +49 681 302-2500
 E-Mail: [info(at)uni-saarland.de](mailto:info(at)uni-saarland.de)
 
-## Disclaimer
+# Disclaimer
 
 VAT-number: DE138117521
 
