@@ -74,7 +74,7 @@ Auch während Sie unsere Website jetzt gerade besuchen, speichert unser Webserve
 # Wie lange werden Daten gespeichert?
 In der Regel werden die oben genannten Daten zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten von Behörden eingesehen werden.
 
-# GitHub Pages
+## GitHub Pages
 Diese Website wird veröffentlicht mit [Github Pages](https://pages.github.com/), Server der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. Aufzeichnen technischer Informationen inklusive ihrer IP Adresse sind beim Aufruf dieser Webseiten möglich [https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages). Weitere Informationen zum Umgang mit Nutzerdaten und zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie in der [Datenschutzerklärung von GitHub](https://help.github.com/articles/github-privacy-policy).
 
 
