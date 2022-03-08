@@ -11,4 +11,4 @@ Frechen S, Solodenko J, Wendl T, Dallmann A, Ince I, Lehr T, Lippert J, Burghaus
 
 Türk D, Fuhr LM, Marok FZ, Rüdesheim S, Kühn A, Selzer D, Schwab M, Lehr T. Novel models for the prediction of drug-gene interactions. *Expert Opin Drug Metab Toxicol*. **2021**; 17(11):1293-1310. doi: 10.1080/17425255.2021.1998455. 
 
-Rüdesheim S, Selzer D, Fuhr U, Schwab M, Lehr T. Physiologically-based pharmacokinetic modeling of dextromethorphan to investigate interindividual variability within CYP2D6 activity score groups. *CPT:PSP*. **2022**; doi: https://doi.org/10.1002/psp4.12776. 
+Rüdesheim S, Selzer D, Fuhr U, Schwab M, Lehr T. Physiologically-based pharmacokinetic modeling of dextromethorphan to investigate interindividual variability within CYP2D6 activity score groups. *CPT:PSP*. **2022**. doi: https://doi.org/10.1002/psp4.12776. 
