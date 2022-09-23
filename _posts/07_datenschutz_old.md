@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Datenschutz
+title: Privacy notice
 permalink: /datenschutz/
 order: 7
 ---
