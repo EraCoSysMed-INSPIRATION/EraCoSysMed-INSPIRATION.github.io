@@ -330,7 +330,7 @@ Please note that Saarland University's online services are subject to constant c
 
 
 ## GitHub Pages
-This website is published with [Github Pages](https://pages.github.com/), Server of Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. Recording of technical information including IP address is possible when accessing this website [https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages).  For more information how user data are handled and possibilities for objection and elimination related to Github, please see [Github's privacy policy](https://help.github.com/articles/github-privacy-policy).
+This website is published with [Github Pages](https://pages.github.com/), Server of Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. Recording of technical information including IP address is possible when accessing this website ([https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages)).  For more information how user data are handled and possibilities for objection and elimination related to Github, please see [Github's privacy policy](https://help.github.com/articles/github-privacy-policy).
 
 
 
@@ -656,7 +656,7 @@ Die Universität des Saarlandes weist darauf hin, dass das Online-Angebot ständ
 
 
 ## GitHub Pages
-Diese Website wird veröffentlicht mit [Github Pages](https://pages.github.com/), Server der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. Aufzeichnen technischer Informationen inklusive ihrer IP Adresse sind beim Aufruf dieser Webseiten möglich [https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages). Weitere Informationen zum Umgang mit Nutzerdaten und zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie in der [Datenschutzerklärung von GitHub](https://help.github.com/articles/github-privacy-policy).
+Diese Website wird veröffentlicht mit [Github Pages](https://pages.github.com/), Server der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. Aufzeichnen technischer Informationen inklusive ihrer IP Adresse sind beim Aufruf dieser Webseiten möglich ([https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages)). Weitere Informationen zum Umgang mit Nutzerdaten und zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie in der [Datenschutzerklärung von GitHub](https://help.github.com/articles/github-privacy-policy).
 
 
 

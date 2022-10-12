@@ -22,7 +22,3 @@ The specific scientific and technological objectives of INSPIRATION are:
 
 5. to develop a clinical decision support system for physicians and patients to assess DDGI and to provide individual dosing recommendations 
 
-![INSPIRATION schema](/images/schema_inspiration.png)
-\
-Fig. 1: Outline of concept and work packages in INSPIRATION 
-
