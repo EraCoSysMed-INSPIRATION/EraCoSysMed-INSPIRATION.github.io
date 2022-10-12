@@ -340,7 +340,7 @@ This website is published with [Github Pages](https://pages.github.com/), Server
 
 
 
-# Datenschutzerklärung
+## Datenschutzerklärung
 
 Die Universität des Saarlandes sieht den Schutz personenbezogener Daten als essentiellen Bestandteil der eigenen Digitalisierungsstrategie an. Der Schutz des informationellen Selbstbestimmungsrechts der Betroffenen ist daher ein hohes Anliegen beim Umgang mit personenbezogenen Daten. Diese Datenschutzerklärung bezieht sich auf die Webseiten, welche von der Universität des Saarlandes betrieben werden. Sollten auf Webseiten der Universität des Saarlandes über die im folgenden dargestellten Verfahren weitere Verarbeitungen erfolgen, wird auf den entsprechenden Webseiten darüber aufgeklärt.
 
